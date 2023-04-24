@@ -3,7 +3,7 @@
 // This source code is licensed under both the MIT license found in the
 // LICENSE-MIT file in the root directory of this source tree.
 
-//! [ActorCell] is reference counted actor which can be passed around as needed
+//! [`ActorCell`] is reference counted actor which can be passed around as needed
 //!
 //! This module contains all the functionality around the [ActorCell], including
 //! the internal properties, ports, states, etc. [ActorCell] is the basic primitive
